@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+    <string name="start">Start Quiz</string>
+    <string name="q1">1.Who is the founder of android?</string>
+    <string name="o11">Alex Thomas</string>
+    <string name="o12">Andy Rubin</string>
+    <string name="o13">Stuart Thaine</string>
+    <string name="q2">2.On which OS is android based on?</string>
+    <string name="o21">Windows</string>
+    <string name="o22">Mac</string>
+    <string name="o23">Linux</string>
+    <string name="q3">3.Which is not a version of android?</string>
+    <string name="o31">JellyBean</string>
+    <string name="o32">Oreo</string>
+    <string name="o33">Dessert</string>
+    <string name="q4">4.What is the full form of AAPT?</string>
+    <string name="o41">Android Asset Packaging Tool</string>
+    <string name="o42">Android Application Processing Tool</string>
+    <string name="o43">Android Asset Processing Tool</string>
+</resources>
